@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184170591475",
+    "firebase_url": "https://movie-it-197e4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movie-it-197e4",
+    "storage_bucket": "movie-it-197e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184170591475:android:6f43119f6482e2ebeb7386",
+        "android_client_info": {
+          "package_name": "com.example.movie_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184170591475-63jrsbn1pv90gmn2o4vv4dugsbdikq2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXVeUjhmEkE-vu8T1B0bjJ6Ac6KYCbBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184170591475-63jrsbn1pv90gmn2o4vv4dugsbdikq2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
